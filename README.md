@@ -4,7 +4,7 @@
 
 This is a console-based Car Rental System written in C++ that allows users to rent cars, manage bookings, and perform administrative tasks. The system supports user authentication, car searching, booking management, and billing functionalities.
 
-## Features
+# Features
 
 ## Admin Functionalities
 
@@ -97,10 +97,6 @@ Username: Mujtaba | Password: Mujtaba123
 # Concepts Used
 
 Structures (struct) for handling Car, Bill, and Credentials data
-
-Encapsulation (separating logic into functions and data structures)
-
-File Handling (not implemented yet but can be added)
 
 Control Structures (loops, switch cases, conditionals)
 
